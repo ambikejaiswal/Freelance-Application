@@ -403,7 +403,7 @@ mongoose.connect(process.env.MONODB_URI,{
     })
 
 
-    app.listen(PORT, ()=>{
-        console.log(`server is running at   ${PORT}`);
-    });
+   server.listen(PORT, ()=>{
+    console.log(`server is running at ${PORT}`);
+   });
 }).catch((e)=> console.log(`Error in db connection ${e}`));
