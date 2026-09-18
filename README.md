@@ -32,7 +32,7 @@ This is a full-stack freelance platform built using the MERN (MongoDB, Express.j
     * JSON Web Tokens (JWT) (Authentication)
     * Socket.IO (Real-time communication)
 * **Deployment:**
-    * netify/vercel (Deployment)
+    * render/vercel (Deployment)
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ This is a full-stack freelance platform built using the MERN (MongoDB, Express.j
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/AMISHA1703/Freelance-Application.git
+    git clone https://github.com/ambikejaiswal/Freelance-Application.git
     cd Freelance-Application
     ```
 
@@ -129,5 +129,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 * Expanding payment gateway options.
 * Adding social media integration.
 * Improving the admin dashboard with more analytics.
+
+---
 
 
